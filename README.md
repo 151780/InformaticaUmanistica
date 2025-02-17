@@ -1,0 +1,2 @@
+# InformaticaUmanistica
+Progetto Informatica Umanistica
