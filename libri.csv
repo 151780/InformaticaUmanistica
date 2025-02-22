@@ -1,4 +1,4 @@
 titolo,tipo,ciclo,ordine1,ordine2,isbn,img,link
-"Fondazione","Romanzo","Fondazione",1,3,"9788804672270","img/LibroFondazione.jpg","https://acquista.com/fondazione"
-"Io, Robot","Racconto","Robot",1,2,"9788804672300","img/LibroIoRobot.jpg","https://acquista.com/io_robot"
-"Notturno","Romanzo","Nessuno",2,3,"9788804672317","img/LibroNotturno_alba.jpg","https://acquista.com/robot_alba"
+"Fondazione","Romanzo","Fondazione",1,3,"9788804672270","LibroFondazione.jpg","https://acquista.com/fondazione"
+"Io, Robot","Racconto","Robot",1,2,"9788804672300","LibroIoRobot.jpg","https://acquista.com/io_robot"
+"Notturno","Romanzo","Nessuno",2,3,"9788804672317","LibroNotturno_alba.jpg","https://acquista.com/robot_alba"
