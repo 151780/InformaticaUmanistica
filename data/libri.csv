@@ -1,4 +1,4 @@
 titolo,tipo,ciclo,ordine1,ordine2,isbn,img,link,anno,genere
 Io Robot,Racconto,Robot,1,2,9788804672300,LibroIoRobot.jpg,SinossiIoRobot.txt,1950,Fantascienza
-Notturno,Romanzo,Nessuno,2,3,9788804672317,LibroNotturno.jpg,SinossiNotturno.txt,1941,Fantascienza
-Fondazione,Romanzo,Fondazione,3,1,9788804672270,LibroFondazione.jpg,SinossiFondazione.txt,1951,Fantascienza
+Notturno,Romanzo,Nessuno,2,3,9788804672317,LibroNotturno.jpg,SinossiNotturno.txt,1941,Divulgazione
+Fondazione,Romanzo,Fondazione,3,1,9788804672270,LibroFondazione.jpg,SinossiFondazione.txt,1951,Fantasy
