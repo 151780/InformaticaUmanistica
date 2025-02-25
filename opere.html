@@ -204,14 +204,17 @@
       <script>
         let libri = [];
         // Cartella immagini
-        const imgBaseUrl = "https://raw.githubusercontent.com/151780/InformaticaUmanistica/main/img/";
+        // const imgBaseUrl = "https://raw.githubusercontent.com/151780/InformaticaUmanistica/main/img/";
+        const imgBaseUrl = "img/";
         // Cartella sinossi
-        const sinossiBaseUrl = "https://raw.githubusercontent.com/151780/InformaticaUmanistica/main/sinossi/";
+        // const sinossiBaseUrl = "https://raw.githubusercontent.com/151780/InformaticaUmanistica/main/sinossi/";
+        const sinossiBaseUrl = "sinossi/";
         
         // Lettura file libri
         function caricaCSV() {
-          $.get("https://raw.githubusercontent.com/151780/InformaticaUmanistica/main/data/libri.csv", function(data) {
-            const righe = data.split("\n");
+          // $.get("https://raw.githubusercontent.com/151780/InformaticaUmanistica/main/data/libri.csv", function(data) {
+          $.get("data/libri.csv", function(data) {
+              const righe = data.split("\n");
             libri = righe.slice(1).map(riga => {
                 const [titolo, tipo, ciclo, ordine1, ordine2, isbn, img, link, anno, genere] = riga.split(",");
                 return { titolo, tipo, ciclo, ordine1, ordine2, isbn, img : imgBaseUrl + img, link : sinossiBaseUrl + link, anno, genere};
