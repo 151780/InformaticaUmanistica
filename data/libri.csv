@@ -1,4 +1,40 @@
 titolo,tipo,ciclo,ordine1,ordine2,isbn,img,link,anno,genere
-Io Robot,Racconto,Robot,1,2,9788804672300,LibroIoRobot.jpg,SinossiIoRobot.txt,1950,Fantascienza
-Notturno,Romanzo,Nessuno,2,3,9788804672317,LibroNotturno.jpg,SinossiNotturno.txt,1941,Divulgazione
-Fondazione,Romanzo,Fondazione,3,1,9788804672270,LibroFondazione.jpg,SinossiFondazione.txt,1951,Fantasy
+Abissi d'acciaio,Romanzo,Robot,1954,3,978-0553293197,immagine_url,link_url,1954,Fantascienza
+Il sole nudo,Romanzo,Robot,1957,2,978-0553296167,immagine_url,link_url,1957,Fantascienza
+I robot dell'alba,Romanzo,Robot,1983,5,978-0385190544,immagine_url,link_url,1983,Fantascienza
+I robot e l'impero,Romanzo,Robot,1985,6,978-0385190551,immagine_url,link_url,1985,Fantascienza
+Paria dei cieli,Romanzo,Impero,1950,3,978-,immagine_url,link_url,1950,Fantascienza
+Il tiranno dei mondi,Romanzo,Impero,1951,2,978-,immagine_url,link_url,1951,Fantascienza
+Le correnti dello spazio,Romanzo,Impero,1952,1,978-,immagine_url,link_url,1952,Fantascienza
+Fondazione,Romanzo,Fondazione,1951,1,978-0553293357,LibroFondazione.jpg,SinossiFondazione.txt,1951,Fantascienza
+L'orlo della fondazione,Romanzo,Fondazione,1982,1,978-,immagine_url,link_url,1982,Fantascienza
+La seconda fondazione,Romanzo,Fondazione,1953,9,978-0553293548,immagine_url,link_url,1953,Fantascienza
+Fondazione e Impero,Romanzo,Fondazione,1945,15,978-,immagine_url,link_url,1945,Fantascienza
+Fondazione e Terra,Romanzo,Fondazione,1986,15,978-0385190636,immagine_url,link_url,1986,Fantascienza
+La fine dell'eternità,Romanzo,Fondazione,1955,4,978-0553293548,immagine_url,link_url,1955,Fantascienza
+Nemesis,Romanzo,Nessuno,1989,4,978-0553293548,immagine_url,link_url,1989,Fantascienza
+Notturno,Romanzo,Nessuno,1990,3,978-8804672317,LibroNotturno.jpg,SinossiNotturno.txt,1941,Fantascienza,
+Neanche gli dei,Romanzo,Nessuno,1972,3,978-,immagine_url,link_url,1972,Fantascienza,
+Robbie,Racconto,Nessuno,1940,1,978-,LibroIoRobot.jpg,SinossiIoRobot.txt,1940,Fantascienza
+Circolo vizioso,Racconto,Nessuno,1940,1,978-,immagine_url,link_url,1940,Fantascienza
+Racconto di robot,Racconto,Nessuno,1950,2,978-0553295405,immagine_url,link_url,1950,Fantascienza
+L'uomo bicentenario,Racconto,Nessuno,1976,3,978-0385190667,immagine_url,link_url,1976,Fantascienza
+Fuga da oltre l'infinito,Racconto,Nessuno,1979,4,978-0553295405,immagine_url,link_url,1979,Fantascienza
+Il martello dei giganti,Racconto,Nessuno,1956,5,978-0553295405,immagine_url,link_url,1956,Fantascienza
+La sentinella,Racconto,Nessuno,1957,6,978-0553295405,immagine_url,link_url,1957,Fantascienza
+Il segreto del robot,Racconto,Nessuno,1953,7,978-0553295405,immagine_url,link_url,1953,Fantascienza
+L'albero delle vie sbagliate,Racconto,Nessuno,1958,8,978-0553295405,immagine_url,link_url,1958,Fantascienza
+Il ritorno dei robot,Racconto,Nessuno,1945,9,978-0553295405,immagine_url,link_url,1945,Fantascienza
+La macchina che vince,Racconto,Nessuno,1967,10,978-0553295405,immagine_url,link_url,1967,Fantascienza
+Il futuro della scienza,Articolo,Nessuno,1998,1,978-0451457997,immagine_url,link_url,1998,Divulgazione
+La matematica e il futuro,Articolo,Nessuno,1987,2,978-0451457997,immagine_url,link_url,1987,Divulgazione
+La scienza e la fede,Articolo,Nessuno,1985,3,978-0451457997,immagine_url,link_url,1985,Divulgazione
+I misteri del futuro,Articolo,Nessuno,1994,4,978-0451457997,immagine_url,link_url,1994,Divulgazione
+Storia della scienza,Articolo,Nessuno,1980,5,978-0451457997,immagine_url,link_url,1980,Divulgazione
+La macchina e l'uomo,Articolo,Nessuno,1972,6,978-0451457997,immagine_url,link_url,1972,Divulgazione
+L'evoluzione della scienza,Articolo,Nessuno,1983,7,978-0451457997,immagine_url,link_url,1983,Divulgazione
+Il mondo che verrà,Articolo,Nessuno,1975,9,978-0451457997,immagine_url,link_url,1975,Divulgazione
+Progresso e umanità,Articolo,Nessuno,1988,10,978-0451457997,immagine_url,link_url,1988,Divulgazione
+Galatea,Racconto,Nessuno,1987,1,978-,immagine_url,link_url,1987,Fantasy
+La risatina ghiotta,Racconto,Nessuno,1974,1,978-,immagine_url,link_url,1974,Giallo
+A dire il vero,Racconto,Nessuno,1974,1,978-,immagine_url,link_url,1974,Giallo
