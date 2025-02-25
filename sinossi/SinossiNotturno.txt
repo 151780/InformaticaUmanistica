@@ -1,5 +1,11 @@
-Notturno di Isaac Asimov è un racconto di fantascienza pubblicato nel 1941, ambientato sul pianeta Lagash, che è illuminato costantemente da sei soli. Gli abitanti non hanno mai conosciuto l’oscurità totale finché un gruppo di scienziati scopre che, ogni 2000 anni, si verifica un’eclissi totale.  
-
-Man mano che il fenomeno si avvicina, cresce la tensione: i religiosi credono che l’oscurità porterà la fine del mondo, mentre gli scienziati temono che l’evento causerà il panico e la distruzione della civiltà. Quando l’eclissi avviene, il terrore si diffonde e la società crolla nel caos. Gli abitanti, incapaci di affrontare il buio e la comparsa delle stelle, impazziscono e incendiano le città, riportando il pianeta a uno stato primitivo.  
-
-Il racconto esplora il rapporto tra conoscenza e superstizione, mostrando come la paura dell’ignoto possa avere conseguenze devastanti.
+Notturno è un romanzo che racconta una
+storia ambientata in un futuro lontano, dove
+la Terra è diventata un luogo oscuro e
+pericoloso. Un gruppo di scienziati cerca
+di scoprire cosa sta succedendo sulla Terra
+e perché è diventata un pianeta privo di
+luce. La trama esplora i temi della scienza,
+della conoscenza e dei limiti umani, con
+un focus sulla natura misteriosa del nostro
+mondo e sul destino dell'umanità, in un
+ambientazione piena di tensione e mistero.
