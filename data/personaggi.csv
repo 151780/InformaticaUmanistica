@@ -1,7 +1,7 @@
 nome,genere,apparizione,img,caratteri,ciclo
 Hari Seldon,Umano,Fondazione,img/umano.jpg,caratteri/Seldon.txt,Fondazione,
 Cleon I,Umano,Fondazione,img/umano.jpg,caratteri/Cleon.txt,Fondazione,
-Susan Calvin,Umano,Lenny,img/umana.jpg,caratteri/Calvin.txt,Robot,
+Susan Calvin,Umano,Lenny,img/calvin.jpg,caratteri/Calvin.txt,Robot,
 Elijah Baley,Umano,Abissi d'Acciaio,img/umana.jpg,caratteri/Baley.txt,Robot,
 R. Daneel Olivaw,Robot,Abissi d'Acciaio,img/robot.jpg,caratteri/Olivaw.txt,Robot,
 R. Giskard Reventlov,Robot,Robot dell'Alba,img/robot.jpg,caratteri/Giskard.txt,Robot,
